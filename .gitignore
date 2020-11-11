@@ -1,0 +1,8 @@
+composer.lock
+/vendor
+docker-compose
+.buildpath
+.project
+.settings/
+.phpunit.result.cache
+reports/
